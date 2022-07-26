@@ -77,3 +77,25 @@ img.thumb-img {
     border: 1px solid #e0e0e0;
     padding: 0px;
 }
+table.dataPointTable {
+    width: 35%;
+    background-color: #ffffff;
+    border-collapse:collapse;
+    border-width: 2px;
+    border-color: black;
+    border-style: solid;
+    color: #000000;
+}
+table.dataPointTable td, table.dataPointTable th {
+  border-width: 2px;
+  border-color: gray;
+  border-style: solid;
+  padding: 3px;
+}
+table.dataPointTable thead {
+    width:100%;
+    background-color:black;
+    color:white;
+    text-align:center;
+    text-transform:uppercase;
+}
