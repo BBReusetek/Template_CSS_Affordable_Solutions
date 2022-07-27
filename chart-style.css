@@ -387,6 +387,7 @@ width:100%;
 	padding: 40px 40px;
 }
 .gallery-bg .g-img {
+	display: flex;
 	width: 100%;
 	max-height: 600px;
 	margin: 0 auto;
